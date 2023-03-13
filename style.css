@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anaheim');
 .bar {
     padding: 0;
-    color: #000000;
+    background-color: #000000;
     list-style-type: none;
     margin: 0;
     overflow: hidden;
