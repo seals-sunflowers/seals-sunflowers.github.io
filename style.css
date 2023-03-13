@@ -1,26 +1,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=Anaheim');
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Anaheim';
+}
 
-/* Navigation Bar */
-.navbar{
-    padding: 20 10 20 0;
-    background-color: #000000;
-    transition: all ease 0.4;
-  }
-  .navbar-brand{
-    font-size: 22;
-    color: white;
-  }
-  .navbar .navbar-nav li a{
-    font-size: 16;
-    color: white;
-    font-family: 'Anaheim';
-  }
-  
-  /* Animation */
-  .animate{
-    padding: 0 10 0 0;
-    transition: all ease 0.4;
-  }
-  
+body {
+  height: 100vh;
+  background-color: black;
+  background-image: url('images/banner.png');
+}
