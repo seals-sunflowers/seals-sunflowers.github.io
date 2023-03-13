@@ -12,4 +12,7 @@ body {
   height: 100vh;
   background-color: black;
   background-image: url('images/banner.png');
+  background-size: cover;
+  background-position: center;
+  
 }
