@@ -5,29 +5,20 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Anaheim';
+  background-color: white;
 }
 
-body {
-  height: 100vh;
-  background-color: black;
-  background-image: url('images/banner.png');
-  background-size: cover;
-  background-position: center;
-}
-
-li {
-  list-style: none;
-
-}
-
-a {
-  text-decoration: none;
+li, a, button {
+  font-family: 'Anaheim', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
   color: white;
-  font-size: 1rem;
-
+  text-decoration: none;
 }
 
-a:hover{
-  color: grey;
+header {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 30px, 10%;
 }
