@@ -1,13 +1,13 @@
 
 @import url('https://fonts.googleapis.com/css?family=Anaheim');
-.head ul {
+.navigation ul {
     padding: 0;
     color: #000000;
     list-style-type: none;
     padding: 0;
 }
 
-.head li {
+.navigation li {
     font-size: 14pt;
     font-family: 'Anaheim';
     display: inline-block;
