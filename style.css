@@ -12,7 +12,10 @@ ul {
 }
 
 li {
-    display: inline-block;
-    margin-right: 10px;
-    color: #ffffff;
-}
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14 16;
+    text-decoration: none;
+  }
+
